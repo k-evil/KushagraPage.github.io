@@ -1,0 +1,69 @@
+.Introduction{
+    font-size: 20px;
+}
+table{
+    border-style: solid;
+    border-collapse: collapse;
+    width: 700PX;
+    HEIGHT: 100PX;
+    align: center;
+}
+th, td{
+    border-style: solid;
+    text-align: Center;
+}
+#HeadingDiv {
+                position: relative;
+}
+.Head {
+                position: absolute;
+                left: 50%;
+                transform: translate(-50%, -100%);
+                text-align: center;
+}
+#photo1 { 
+                width: 90%;
+                height: 700px;
+                opacity: 50%;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+}
+#B{
+                top: 55%;
+                font-size: 50px;
+                font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#A{
+                Top: 45%;
+                font-size:35px;
+                font-family:"Brush Script MT", cursive;
+}
+#MyPhoto{
+                float:Right;
+                width: 400px;
+                height: 475px;
+}
+.accomplishments {
+                color: blue;
+                text-decoration: underline;
+}
+.heading{
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    font-size:40px;
+}
+#table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.Introduction{
+    margin-left: 20px;
+}
+p{
+    padding-bottom: 500px;
+}
+#AboutMe{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
